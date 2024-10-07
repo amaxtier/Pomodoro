@@ -1,0 +1,1 @@
+This project emphasizes the use of the Tkinter library. I did a simple design of a pomodoro (tomato) clock. The objective of the project is to use the Tkinter library and create a functional clock countdown with its integrated 'after' function. This project is great to be used when trying to work using the pomodoro technique to improve time management. Enjoy!
